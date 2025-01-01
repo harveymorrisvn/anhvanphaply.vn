@@ -1,0 +1,15 @@
+
+---Downloaded files---
+The import files for: Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://anhvanphaply.local
+Data file = /Volumes/Devspace/Devitech/anhvanphaply/wp-content/plugins/edumint-core//demo/demo-data.xml
+Widget file = /Volumes/Devspace/Devitech/anhvanphaply/wp-content/plugins/edumint-core//demo/widget.wie
+Customizer file = /Volumes/Devspace/Devitech/anhvanphaply/wp-content/plugins/edumint-core//demo/edumint-customiser.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+

@@ -1,0 +1,27 @@
+
+---Downloaded files---
+The import files for: Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://anhvanphaply.local
+Data file = /Volumes/Devspace/Devitech/anhvanphaply/wp-content/plugins/edumint-core//demo/demo-data.xml
+Widget file = /Volumes/Devspace/Devitech/anhvanphaply/wp-content/plugins/edumint-core//demo/widget.wie
+Customizer file = /Volumes/Devspace/Devitech/anhvanphaply/wp-content/plugins/edumint-core//demo/edumint-customiser.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+EDUMINT Category Banner - Categories - Widget already exists
+EDUMINT Recent Post Widget - Recent News  - Widget already exists
+Block - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

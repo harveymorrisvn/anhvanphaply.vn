@@ -1,0 +1,46 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://anhvanphaply.local
+Data file = /Volumes/Devspace/Devitech/anhvanphaply/wp-content/uploads/2024/04/demo-data-1.xml
+Widget file = /Volumes/Devspace/Devitech/anhvanphaply/wp-content/uploads/2024/04/widget.wie
+Customizer file = /Volumes/Devspace/Devitech/anhvanphaply/wp-content/uploads/2024/04/edumint-customiser.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Imported
+EDUMINT Category Banner - Categories - Imported
+EDUMINT Recent Post Widget - Recent News  - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+
